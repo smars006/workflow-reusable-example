@@ -10,7 +10,7 @@ on:
       run-tests:
         description: 'Wether to run tests'
         required: false
-        default: 'false'
+        default: false
         type: boolean
 
 jobs:
